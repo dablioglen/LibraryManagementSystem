@@ -1,2 +1,2 @@
 # LibraryManagementSystem
-please contact me at my facebook to guide you on how to run the system
+please contact me to guide you on how to run the system
