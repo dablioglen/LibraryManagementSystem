@@ -9,6 +9,7 @@ Underlying the system is an embedded local database, specifically utilizing the 
 ![image](https://github.com/dablioglen/LibraryManagementSystem/assets/116615666/cc8b6b67-8913-4f30-980b-a65b9d749e20)
 ![image](https://github.com/dablioglen/LibraryManagementSystem/assets/116615666/cd6addd9-9c2e-402c-8ba8-5340eca320d2)
 ![image](https://github.com/dablioglen/LibraryManagementSystem/assets/116615666/f46007b4-4c78-4c8e-b1ff-665217167fa4)
+![image](https://github.com/dablioglen/LibraryManagementSystem/assets/116615666/7c8029be-6398-43cf-856a-553800c65c10)
 ![image](https://github.com/dablioglen/LibraryManagementSystem/assets/116615666/8b3df465-2b0d-438e-9570-3d6f881e2a7d)
 ![image](https://github.com/dablioglen/LibraryManagementSystem/assets/116615666/ff35a6ab-f6bc-479c-b3d8-cb207b468907)
 ![image](https://github.com/dablioglen/LibraryManagementSystem/assets/116615666/c49a6a8c-b58a-4bc0-9059-4b4f7da1b0be)
