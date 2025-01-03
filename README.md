@@ -20,7 +20,6 @@ Underlying the system is an embedded local database, specifically utilizing the 
 gmail notification output:
 ![image](https://github.com/dablioglen/LibraryManagementSystem/assets/116615666/6ad6e06a-06a9-4a23-8f68-6172213057c6)
 
-please contact me to guide you on how to run the system
 
 
 
